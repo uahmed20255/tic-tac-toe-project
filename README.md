@@ -15,6 +15,6 @@ This is a console-based implementation of the classic Tic-Tac-Toe game. Players 
 - The game ends when one player wins or when all cells are filled (tie).
 
 # Instructions:
-Clone or download the repository.
-Run the Python script in your terminal or command line.
-Follow the on-screen prompts to play the game.
+- Clone or download the repository.
+- Run the Python script in your terminal or command line.
+- Follow the on-screen prompts to play the game.
