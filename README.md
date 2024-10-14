@@ -1,5 +1,4 @@
-# tic-tac-toe-project 
-in python
+# tic-tac-toe-project in python
 
 
 # Tic-Tac-Toe Game
